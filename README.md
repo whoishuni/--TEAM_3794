@@ -1,6 +1,7 @@
 # AIcup 圍棋棋力模仿與棋風辨識競賽
   - **Team**: TEAM_3794
   - **姓名**: 郭昱辰
+  - **csv位置**: https://drive.google.com/drive/folders/1KZyXD5ygUU9zGFr_le9IeW49FbVI6cYV?usp=drive_link
 
 # Introduction
 這裡面有三個訓練模型的檔案分別為DAN model.py，KYU model.py，
